@@ -4,3 +4,8 @@ Archivos en el repositorio:
     - Apartado b
     - Apartado c
     - Apartado d
+- Ejerccios redes KPINN
+    - Apartado_a_KAN
+    - Apartado_b_KAN
+    - Apartado_c_KAN
+    - Apartado_d_KAN
